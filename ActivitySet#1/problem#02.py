@@ -1,3 +1,3 @@
 # Why Program
 
-print("vishu")
+print("")
